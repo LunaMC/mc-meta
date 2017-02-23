@@ -9,5 +9,5 @@ git config --global user.email max.walsch@gmail.com
 
 # Git add, commit and push
 git add --all || exit 0
-git commit -m "Update data" || exit 0
+git commit -m "Update data [ci skip]" || exit 0
 git push origin master || exit 0
