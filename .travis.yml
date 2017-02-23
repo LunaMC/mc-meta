@@ -5,3 +5,4 @@ script: npm run start
 deploy:
   - provider: script
     script: .build/scripts/deploy-github.sh
+    skip_cleanup: true
