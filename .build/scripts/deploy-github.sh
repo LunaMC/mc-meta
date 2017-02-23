@@ -2,6 +2,7 @@
 
 # Decrypt private push key
 mkdir -p ~/.ssh
+rm -f ~/.ssh/id_rsa
 openssl aes-256-cbc -K $encrypted_24624dd287c1_key -iv $encrypted_24624dd287c1_iv -in .build/resources/id_rsa.enc -out ~/.ssh/id_rsa -d
 chmod 600 ~/.ssh/id_rsa
 eval `ssh-agent -s`
