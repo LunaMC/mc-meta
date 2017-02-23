@@ -1,0 +1,7 @@
+language: node_js
+node_js: node
+script: npm run start
+
+deploy:
+  - provider: script
+    script: .build/scripts/deploy-github.sh

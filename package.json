@@ -1,0 +1,17 @@
+{
+  "name": "mc-meta",
+  "version": "0.0.1",
+  "description": "Parses data from wiki.vg and stores it machine-readable to json/xml-files",
+  "main": "crawler.js",
+  "scripts": {
+    "start": "node crawler.js"
+  },
+  "keywords": [ "crawler", "minecraft", "wiki.vg" ],
+  "author": "Max Walsch <max.walsch@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "xmlbuilder": "^8.2.2"
+  }
+}
