@@ -18,5 +18,5 @@ git remote add deployment git@github.com:LunaMC/mc-meta.git
 # Git add, commit and push
 git checkout master || exit 0
 git add --all || exit 0
-git commit -m "Update data [ci skip]" || exit 0
+git commit -m "Update data" || exit 0
 git push deployment master || exit 0
