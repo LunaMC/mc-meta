@@ -6,3 +6,5 @@ deploy:
   - provider: script
     script: sh .build/scripts/deploy-github.sh
     skip_cleanup: true
+    on:
+      branch: master
