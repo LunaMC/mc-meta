@@ -1,5 +1,54 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="1.12-pre6" versionType="PRE_RELEASE" protocolVersion="333"/>
+  <minecraftVersion versionName="1.12-pre5" versionType="PRE_RELEASE" protocolVersion="332"/>
+  <minecraftVersion versionName="1.12-pre4" versionType="PRE_RELEASE" protocolVersion="331"/>
+  <minecraftVersion versionName="1.12-pre3" versionType="PRE_RELEASE" protocolVersion="330"/>
+  <minecraftVersion versionName="1.12-pre2" versionType="PRE_RELEASE" protocolVersion="329"/>
+  <minecraftVersion versionName="1.12-pre1" versionType="PRE_RELEASE" protocolVersion="328"/>
+  <minecraftVersion versionName="17w18b" versionType="SNAPSHOT" protocolVersion="327"/>
+  <minecraftVersion versionName="17w18a" versionType="SNAPSHOT" protocolVersion="326"/>
+  <minecraftVersion versionName="17w17b" versionType="SNAPSHOT" protocolVersion="325"/>
+  <minecraftVersion versionName="17w17a" versionType="SNAPSHOT" protocolVersion="324"/>
+  <minecraftVersion versionName="17w16b" versionType="SNAPSHOT" protocolVersion="323"/>
+  <minecraftVersion versionName="17w16a" versionType="SNAPSHOT" protocolVersion="322"/>
+  <minecraftVersion versionName="17w15a" versionType="SNAPSHOT" protocolVersion="321"/>
+  <minecraftVersion versionName="17w14a" versionType="SNAPSHOT" protocolVersion="320"/>
+  <minecraftVersion versionName="17w13b" versionType="SNAPSHOT" protocolVersion="319"/>
+  <minecraftVersion versionName="17w13a" versionType="SNAPSHOT" protocolVersion="318"/>
+  <minecraftVersion versionName="17w06a" versionType="SNAPSHOT" protocolVersion="317"/>
+  <minecraftVersion versionName="1.11.2" versionType="RELEASE" protocolVersion="316"/>
+  <minecraftVersion versionName="1.11.1" versionType="RELEASE" protocolVersion="316"/>
+  <minecraftVersion versionName="16w50a" versionType="SNAPSHOT" protocolVersion="316"/>
+  <minecraftVersion versionName="1.11" versionType="RELEASE" protocolVersion="315"/>
+  <minecraftVersion versionName="1.11-pre1" versionType="PRE_RELEASE" protocolVersion="314"/>
+  <minecraftVersion versionName="16w44a" versionType="SNAPSHOT" protocolVersion="313"/>
+  <minecraftVersion versionName="16w43a" versionType="SNAPSHOT" protocolVersion="313"/>
+  <minecraftVersion versionName="16w42a" versionType="SNAPSHOT" protocolVersion="312"/>
+  <minecraftVersion versionName="16w41a" versionType="SNAPSHOT" protocolVersion="311"/>
+  <minecraftVersion versionName="16w40a" versionType="SNAPSHOT" protocolVersion="310"/>
+  <minecraftVersion versionName="16w39c" versionType="SNAPSHOT" protocolVersion="309"/>
+  <minecraftVersion versionName="16w39b" versionType="SNAPSHOT" protocolVersion="308"/>
+  <minecraftVersion versionName="16w39a" versionType="SNAPSHOT" protocolVersion="307"/>
+  <minecraftVersion versionName="16w38a" versionType="SNAPSHOT" protocolVersion="306"/>
+  <minecraftVersion versionName="16w36a" versionType="SNAPSHOT" protocolVersion="305"/>
+  <minecraftVersion versionName="16w35a" versionType="SNAPSHOT" protocolVersion="304"/>
+  <minecraftVersion versionName="16w33a" versionType="SNAPSHOT" protocolVersion="303"/>
+  <minecraftVersion versionName="16w32b" versionType="SNAPSHOT" protocolVersion="302"/>
+  <minecraftVersion versionName="16w32a" versionType="SNAPSHOT" protocolVersion="301"/>
+  <minecraftVersion versionName="1.10.2" versionType="RELEASE" protocolVersion="210"/>
+  <minecraftVersion versionName="1.10.1" versionType="RELEASE" protocolVersion="210"/>
+  <minecraftVersion versionName="1.10" versionType="RELEASE" protocolVersion="210"/>
+  <minecraftVersion versionName="1.10-pre2" versionType="PRE_RELEASE" protocolVersion="205"/>
+  <minecraftVersion versionName="1.10-pre1" versionType="PRE_RELEASE" protocolVersion="204"/>
+  <minecraftVersion versionName="16w21b" versionType="SNAPSHOT" protocolVersion="203"/>
+  <minecraftVersion versionName="16w21a" versionType="SNAPSHOT" protocolVersion="202"/>
+  <minecraftVersion versionName="16w20a" versionType="SNAPSHOT" protocolVersion="201"/>
+  <minecraftVersion versionName="1.9.4" versionType="RELEASE" protocolVersion="110"/>
+  <minecraftVersion versionName="1.9.3" versionType="RELEASE" protocolVersion="110"/>
+  <minecraftVersion versionName="1.9.3-pre3" versionType="PRE_RELEASE" protocolVersion="110"/>
+  <minecraftVersion versionName="1.9.3-pre2" versionType="PRE_RELEASE" protocolVersion="110"/>
+  <minecraftVersion versionName="1.9.3-pre1" versionType="PRE_RELEASE" protocolVersion="109"/>
   <minecraftVersion versionName="16w15b" versionType="SNAPSHOT" protocolVersion="109"/>
   <minecraftVersion versionName="16w15a" versionType="SNAPSHOT" protocolVersion="109"/>
   <minecraftVersion versionName="16w14a" versionType="SNAPSHOT" protocolVersion="109"/>
@@ -113,6 +162,9 @@
   <minecraftVersion versionName="14w18b" versionType="SNAPSHOT" protocolVersion="16"/>
   <minecraftVersion versionName="14w17a" versionType="SNAPSHOT" protocolVersion="15"/>
   <minecraftVersion versionName="14w11a" versionType="SNAPSHOT" protocolVersion="14"/>
+  <minecraftVersion versionName="14w10c" versionType="SNAPSHOT" protocolVersion="13"/>
+  <minecraftVersion versionName="14w10b" versionType="SNAPSHOT" protocolVersion="13"/>
+  <minecraftVersion versionName="14w10a" versionType="SNAPSHOT" protocolVersion="13"/>
   <minecraftVersion versionName="14w08a" versionType="SNAPSHOT" protocolVersion="12"/>
   <minecraftVersion versionName="14w07a" versionType="SNAPSHOT" protocolVersion="11"/>
   <minecraftVersion versionName="14w06a" versionType="SNAPSHOT" protocolVersion="10"/>
@@ -131,9 +183,9 @@
   <minecraftVersion versionName="1.7.3-pre" versionType="PRE_RELEASE" protocolVersion="4"/>
   <minecraftVersion versionName="1.7.2" versionType="RELEASE" protocolVersion="4"/>
   <minecraftVersion versionName="1.7.1-pre" versionType="PRE_RELEASE" protocolVersion="4"/>
-  <minecraftVersion versionName="15w43a" versionType="SNAPSHOT" protocolVersion="2"/>
-  <minecraftVersion versionName="15w42b" versionType="SNAPSHOT" protocolVersion="1"/>
-  <minecraftVersion versionName="15w42a" versionType="SNAPSHOT" protocolVersion="1"/>
-  <minecraftVersion versionName="15w41b" versionType="SNAPSHOT" protocolVersion="0"/>
-  <minecraftVersion versionName="15w41a" versionType="SNAPSHOT" protocolVersion="0"/>
+  <minecraftVersion versionName="13w43a" versionType="SNAPSHOT" protocolVersion="2"/>
+  <minecraftVersion versionName="13w42b" versionType="SNAPSHOT" protocolVersion="1"/>
+  <minecraftVersion versionName="13w42a" versionType="SNAPSHOT" protocolVersion="1"/>
+  <minecraftVersion versionName="13w41b" versionType="SNAPSHOT" protocolVersion="0"/>
+  <minecraftVersion versionName="13w41a" versionType="SNAPSHOT" protocolVersion="0"/>
 </minecraftVersions>

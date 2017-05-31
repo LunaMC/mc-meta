@@ -6,7 +6,11 @@
   "scripts": {
     "start": "node crawler.js"
   },
-  "keywords": [ "crawler", "minecraft", "wiki.vg" ],
+  "keywords": [
+    "crawler",
+    "minecraft",
+    "wiki.vg"
+  ],
   "author": "Max Walsch <max.walsch@gmail.com>",
   "license": "MIT",
   "dependencies": {
