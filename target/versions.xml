@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="1.12.1-pre1" versionType="PRE_RELEASE" protocolVersion="337"/>
+  <minecraftVersion versionName="17w31a" versionType="SNAPSHOT" protocolVersion="336"/>
   <minecraftVersion versionName="1.12" versionType="RELEASE" protocolVersion="335"/>
   <minecraftVersion versionName="1.12-pre7" versionType="PRE_RELEASE" protocolVersion="334"/>
   <minecraftVersion versionName="1.12-pre6" versionType="PRE_RELEASE" protocolVersion="333"/>
