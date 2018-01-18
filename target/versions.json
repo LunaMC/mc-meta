@@ -1,5 +1,15 @@
 [
   {
+    "version_name": "18w03b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 355
+  },
+  {
+    "version_name": "18w03a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 354
+  },
+  {
     "version_name": "18w02a",
     "version_type": "SNAPSHOT",
     "protocol_version": 353
