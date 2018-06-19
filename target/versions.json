@@ -720,6 +720,16 @@
     "protocol_version": 74
   },
   {
+    "version_name": "15w39b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 74
+  },
+  {
+    "version_name": "15w39a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 74
+  },
+  {
     "version_name": "15w38b",
     "version_type": "SNAPSHOT",
     "protocol_version": 73
@@ -980,9 +990,19 @@
     "protocol_version": 31
   },
   {
+    "version_name": "14w30b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 30
+  },
+  {
     "version_name": "14w30a",
     "version_type": "SNAPSHOT",
     "protocol_version": 30
+  },
+  {
+    "version_name": "14w29a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 29
   },
   {
     "version_name": "14w29a",
@@ -1045,6 +1065,11 @@
     "protocol_version": 19
   },
   {
+    "version_name": "14w20b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 18
+  },
+  {
     "version_name": "14w20a",
     "version_type": "SNAPSHOT",
     "protocol_version": 18
@@ -1060,9 +1085,19 @@
     "protocol_version": 16
   },
   {
+    "version_name": "14w18a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 16
+  },
+  {
     "version_name": "14w17a",
     "version_type": "SNAPSHOT",
     "protocol_version": 15
+  },
+  {
+    "version_name": "14w11b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 14
   },
   {
     "version_name": "14w11a",
@@ -1095,9 +1130,19 @@
     "protocol_version": 11
   },
   {
+    "version_name": "14w06b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 10
+  },
+  {
     "version_name": "14w06a",
     "version_type": "SNAPSHOT",
     "protocol_version": 10
+  },
+  {
+    "version_name": "14w05b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 9
   },
   {
     "version_name": "14w05a",
@@ -1115,64 +1160,119 @@
     "protocol_version": 7
   },
   {
+    "version_name": "14w03b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 6
+  },
+  {
     "version_name": "14w03a",
     "version_type": "SNAPSHOT",
     "protocol_version": 6
   },
   {
+    "version_name": "14w02c",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 7
+  },
+  {
+    "version_name": "14w02b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 7
+  },
+  {
     "version_name": "14w02a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 5
+    "protocol_version": 7
   },
   {
     "version_name": "1.7.10",
     "version_type": "RELEASE",
-    "protocol_version": 5
+    "protocol_version": 7
   },
   {
     "version_name": "1.7.9",
     "version_type": "RELEASE",
-    "protocol_version": 5
+    "protocol_version": 7
   },
   {
     "version_name": "1.7.8",
     "version_type": "RELEASE",
-    "protocol_version": 5
+    "protocol_version": 7
   },
   {
     "version_name": "1.7.7",
     "version_type": "RELEASE",
-    "protocol_version": 5
+    "protocol_version": 7
   },
   {
     "version_name": "1.7.6",
     "version_type": "RELEASE",
-    "protocol_version": 5
+    "protocol_version": 7
   },
   {
     "version_name": "1.7.5",
     "version_type": "RELEASE",
-    "protocol_version": 4
+    "protocol_version": 12
   },
   {
     "version_name": "1.7.4",
     "version_type": "RELEASE",
-    "protocol_version": 4
+    "protocol_version": 12
   },
   {
     "version_name": "1.7.3-pre",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 4
+    "protocol_version": 12
   },
   {
     "version_name": "1.7.2",
     "version_type": "RELEASE",
-    "protocol_version": 4
+    "protocol_version": 12
   },
   {
     "version_name": "1.7.1-pre",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 4
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w49a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w48b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w48a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w47e",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w47d",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w47c",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w47b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
+  },
+  {
+    "version_name": "13w47a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 12
   },
   {
     "version_name": "13w43a",
