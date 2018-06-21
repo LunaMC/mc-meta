@@ -180,7 +180,19 @@
   <minecraftVersion versionName="1.8.4" versionType="RELEASE" protocolVersion="47"/>
   <minecraftVersion versionName="1.8.3" versionType="RELEASE" protocolVersion="47"/>
   <minecraftVersion versionName="1.8.2" versionType="RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.2-pre7" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.2-pre6" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.2-pre5" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.2-pre4" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.2-pre3" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.2-pre2" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.2-pre1" versionType="PRE_RELEASE" protocolVersion="47"/>
   <minecraftVersion versionName="1.8.1" versionType="RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.1-pre5" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.1-pre4" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.1-pre3" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.1-pre2" versionType="PRE_RELEASE" protocolVersion="47"/>
+  <minecraftVersion versionName="1.8.1-pre1" versionType="PRE_RELEASE" protocolVersion="47"/>
   <minecraftVersion versionName="1.8" versionType="RELEASE" protocolVersion="47"/>
   <minecraftVersion versionName="1.8-pre3" versionType="PRE_RELEASE" protocolVersion="46"/>
   <minecraftVersion versionName="1.8-pre2" versionType="PRE_RELEASE" protocolVersion="45"/>
@@ -238,15 +250,22 @@
   <minecraftVersion versionName="14w02b" versionType="SNAPSHOT" protocolVersion="7"/>
   <minecraftVersion versionName="14w02a" versionType="SNAPSHOT" protocolVersion="7"/>
   <minecraftVersion versionName="1.7.10" versionType="RELEASE" protocolVersion="7"/>
+  <minecraftVersion versionName="1.7.10-pre4" versionType="PRE_RELEASE" protocolVersion="7"/>
+  <minecraftVersion versionName="1.7.10-pre3" versionType="PRE_RELEASE" protocolVersion="7"/>
+  <minecraftVersion versionName="1.7.10-pre2" versionType="PRE_RELEASE" protocolVersion="7"/>
+  <minecraftVersion versionName="1.7.10-pre1" versionType="PRE_RELEASE" protocolVersion="7"/>
   <minecraftVersion versionName="1.7.9" versionType="RELEASE" protocolVersion="7"/>
   <minecraftVersion versionName="1.7.8" versionType="RELEASE" protocolVersion="7"/>
   <minecraftVersion versionName="1.7.7" versionType="RELEASE" protocolVersion="7"/>
   <minecraftVersion versionName="1.7.6" versionType="RELEASE" protocolVersion="7"/>
+  <minecraftVersion versionName="1.7.6-pre2" versionType="PRE_RELEASE" protocolVersion="7"/>
+  <minecraftVersion versionName="1.7.6-pre1" versionType="PRE_RELEASE" protocolVersion="7"/>
   <minecraftVersion versionName="1.7.5" versionType="RELEASE" protocolVersion="12"/>
   <minecraftVersion versionName="1.7.4" versionType="RELEASE" protocolVersion="12"/>
   <minecraftVersion versionName="1.7.3-pre" versionType="PRE_RELEASE" protocolVersion="12"/>
   <minecraftVersion versionName="1.7.2" versionType="RELEASE" protocolVersion="12"/>
   <minecraftVersion versionName="1.7.1-pre" versionType="PRE_RELEASE" protocolVersion="12"/>
+  <minecraftVersion versionName="1.7-pre" versionType="PRE_RELEASE" protocolVersion="12"/>
   <minecraftVersion versionName="13w49a" versionType="SNAPSHOT" protocolVersion="12"/>
   <minecraftVersion versionName="13w48b" versionType="SNAPSHOT" protocolVersion="12"/>
   <minecraftVersion versionName="13w48a" versionType="SNAPSHOT" protocolVersion="12"/>
