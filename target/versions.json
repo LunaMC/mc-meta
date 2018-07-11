@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "1.13-pre7",
+    "version_type": "PRE_RELEASE",
+    "protocol_version": 389
+  },
+  {
     "version_name": "1.13-pre6",
     "version_type": "PRE_RELEASE",
     "protocol_version": 388
@@ -1252,142 +1257,142 @@
   {
     "version_name": "14w02c",
     "version_type": "SNAPSHOT",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "14w02b",
     "version_type": "SNAPSHOT",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "14w02a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.10",
     "version_type": "RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.10-pre4",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.10-pre3",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.10-pre2",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.10-pre1",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.9",
     "version_type": "RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.8",
     "version_type": "RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.7",
     "version_type": "RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.6",
     "version_type": "RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.6-pre2",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.6-pre1",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 7
+    "protocol_version": 5
   },
   {
     "version_name": "1.7.5",
     "version_type": "RELEASE",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "1.7.4",
     "version_type": "RELEASE",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "1.7.3-pre",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 12
-  },
-  {
-    "version_name": "1.7.2",
-    "version_type": "RELEASE",
-    "protocol_version": 12
-  },
-  {
-    "version_name": "1.7.1-pre",
-    "version_type": "PRE_RELEASE",
-    "protocol_version": 12
-  },
-  {
-    "version_name": "1.7-pre",
-    "version_type": "PRE_RELEASE",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w49a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w48b",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w48a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w47e",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w47d",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w47c",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w47b",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
   },
   {
     "version_name": "13w47a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 12
+    "protocol_version": 4
+  },
+  {
+    "version_name": "1.7.2",
+    "version_type": "RELEASE",
+    "protocol_version": 4
+  },
+  {
+    "version_name": "1.7.1-pre",
+    "version_type": "PRE_RELEASE",
+    "protocol_version": 3
+  },
+  {
+    "version_name": "1.7-pre",
+    "version_type": "PRE_RELEASE",
+    "protocol_version": 3
   },
   {
     "version_name": "13w43a",
