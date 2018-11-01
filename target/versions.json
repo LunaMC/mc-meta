@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "18w44a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 443
+  },
+  {
     "version_name": "18w43c",
     "version_type": "SNAPSHOT",
     "protocol_version": 442
