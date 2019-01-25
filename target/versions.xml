@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="19w04b" versionType="SNAPSHOT" protocolVersion="457"/>
+  <minecraftVersion versionName="19w04a" versionType="SNAPSHOT" protocolVersion="456"/>
   <minecraftVersion versionName="19w03c" versionType="SNAPSHOT" protocolVersion="455"/>
-  <minecraftVersion versionName="19w03b" versionType="SNAPSHOT" protocolVersion="453"/>
+  <minecraftVersion versionName="19w03b" versionType="SNAPSHOT" protocolVersion="454"/>
   <minecraftVersion versionName="19w03a" versionType="SNAPSHOT" protocolVersion="453"/>
   <minecraftVersion versionName="19w02a" versionType="SNAPSHOT" protocolVersion="452"/>
   <minecraftVersion versionName="18w50a" versionType="SNAPSHOT" protocolVersion="451"/>

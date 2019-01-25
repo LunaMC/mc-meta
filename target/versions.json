@@ -1,5 +1,15 @@
 [
   {
+    "version_name": "19w04b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 457
+  },
+  {
+    "version_name": "19w04a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 456
+  },
+  {
     "version_name": "19w03c",
     "version_type": "SNAPSHOT",
     "protocol_version": 455
@@ -7,7 +17,7 @@
   {
     "version_name": "19w03b",
     "version_type": "SNAPSHOT",
-    "protocol_version": 453
+    "protocol_version": 454
   },
   {
     "version_name": "19w03a",
