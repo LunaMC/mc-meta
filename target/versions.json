@@ -1,5 +1,15 @@
 [
   {
+    "version_name": "19w12b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 467
+  },
+  {
+    "version_name": "19w12a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 466
+  },
+  {
     "version_name": "19w11b",
     "version_type": "SNAPSHOT",
     "protocol_version": 465
