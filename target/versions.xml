@@ -27,7 +27,7 @@
   <minecraftVersion versionName="18w44a" versionType="SNAPSHOT" protocolVersion="443"/>
   <minecraftVersion versionName="18w43c" versionType="SNAPSHOT" protocolVersion="442"/>
   <minecraftVersion versionName="18w43b" versionType="SNAPSHOT" protocolVersion="441"/>
-  <minecraftVersion versionName="18w43a" versionType="SNAPSHOT" protocolVersion="440"/>
+  <minecraftVersion versionName="18w43a" versionType="SNAPSHOT" protocolVersion="441"/>
   <minecraftVersion versionName="1.13.2" versionType="RELEASE" protocolVersion="404"/>
   <minecraftVersion versionName="1.13.2-pre2" versionType="PRE_RELEASE" protocolVersion="403"/>
   <minecraftVersion versionName="1.13.2-pre1" versionType="PRE_RELEASE" protocolVersion="402"/>
@@ -78,7 +78,7 @@
   <minecraftVersion versionName="18w06a" versionType="SNAPSHOT" protocolVersion="357"/>
   <minecraftVersion versionName="18w05a" versionType="SNAPSHOT" protocolVersion="356"/>
   <minecraftVersion versionName="18w03b" versionType="SNAPSHOT" protocolVersion="355"/>
-  <minecraftVersion versionName="18w03a" versionType="SNAPSHOT" protocolVersion="354"/>
+  <minecraftVersion versionName="18w03b" versionType="SNAPSHOT" protocolVersion="354"/>
   <minecraftVersion versionName="18w02a" versionType="SNAPSHOT" protocolVersion="353"/>
   <minecraftVersion versionName="18w01a" versionType="SNAPSHOT" protocolVersion="352"/>
   <minecraftVersion versionName="17w50a" versionType="SNAPSHOT" protocolVersion="351"/>

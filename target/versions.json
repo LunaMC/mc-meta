@@ -137,7 +137,7 @@
   {
     "version_name": "18w43a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 440
+    "protocol_version": 441
   },
   {
     "version_name": "1.13.2",
@@ -390,7 +390,7 @@
     "protocol_version": 355
   },
   {
-    "version_name": "18w03a",
+    "version_name": "18w03b",
     "version_type": "SNAPSHOT",
     "protocol_version": 354
   },
