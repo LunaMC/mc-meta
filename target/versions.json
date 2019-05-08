@@ -5,31 +5,6 @@
     "protocol_version": 477
   },
   {
-    "version_name": "1.14-pre5",
-    "version_type": "PRE_RELEASE",
-    "protocol_version": 476
-  },
-  {
-    "version_name": "1.14-pre4",
-    "version_type": "PRE_RELEASE",
-    "protocol_version": 475
-  },
-  {
-    "version_name": "1.14-pre3",
-    "version_type": "PRE_RELEASE",
-    "protocol_version": 474
-  },
-  {
-    "version_name": "1.14-pre2",
-    "version_type": "PRE_RELEASE",
-    "protocol_version": 473
-  },
-  {
-    "version_name": "1.14-pre1",
-    "version_type": "PRE_RELEASE",
-    "protocol_version": 472
-  },
-  {
     "version_name": "19w14b",
     "version_type": "SNAPSHOT",
     "protocol_version": 471
