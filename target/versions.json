@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "1.14.2",
+    "version_type": "RELEASE",
+    "protocol_version": 485
+  },
+  {
     "version_name": "1.14.1",
     "version_type": "RELEASE",
     "protocol_version": 480
