@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "1.14.3-pre2",
+    "version_type": "PRE_RELEASE",
+    "protocol_version": 487
+  },
+  {
     "version_name": "1.14.3-pre1",
     "version_type": "PRE_RELEASE",
     "protocol_version": 486
