@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="19w34a" versionType="SNAPSHOT" protocolVersion="550"/>
   <minecraftVersion versionName="1.14.4" versionType="RELEASE" protocolVersion="498"/>
   <minecraftVersion versionName="1.14.4-pre7" versionType="PRE_RELEASE" protocolVersion="497"/>
   <minecraftVersion versionName="1.14.4-pre6" versionType="PRE_RELEASE" protocolVersion="496"/>
@@ -98,7 +99,7 @@
   <minecraftVersion versionName="18w06a" versionType="SNAPSHOT" protocolVersion="357"/>
   <minecraftVersion versionName="18w05a" versionType="SNAPSHOT" protocolVersion="356"/>
   <minecraftVersion versionName="18w03b" versionType="SNAPSHOT" protocolVersion="355"/>
-  <minecraftVersion versionName="18w03b" versionType="SNAPSHOT" protocolVersion="354"/>
+  <minecraftVersion versionName="18w03a" versionType="SNAPSHOT" protocolVersion="354"/>
   <minecraftVersion versionName="18w02a" versionType="SNAPSHOT" protocolVersion="353"/>
   <minecraftVersion versionName="18w01a" versionType="SNAPSHOT" protocolVersion="352"/>
   <minecraftVersion versionName="17w50a" versionType="SNAPSHOT" protocolVersion="351"/>
