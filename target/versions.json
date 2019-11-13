@@ -1,8 +1,13 @@
 [
   {
+    "version_name": "19w46a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 563
+  },
+  {
     "version_name": "19w45b",
     "version_type": "SNAPSHOT",
-    "protocol_version": 562
+    "protocol_version": 563
   },
   {
     "version_name": "19w45a",
