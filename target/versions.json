@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "20w20a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": 716
+  },
+  {
     "version_name": "20w19a",
     "version_type": "SNAPSHOT",
     "protocol_version": 715
