@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "1.16-pre8",
+    "version_type": "PRE_RELEASE",
+    "protocol_version": 732
+  },
+  {
     "version_name": "1.16-pre7",
     "version_type": "PRE_RELEASE",
     "protocol_version": 732
