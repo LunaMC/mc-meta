@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <minecraftVersions>
+  <minecraftVersion versionName="20w49a" versionType="SNAPSHOT" protocolVersion="1073741832"/>
   <minecraftVersion versionName="20w48a" versionType="SNAPSHOT" protocolVersion="1073741831"/>
   <minecraftVersion versionName="20w46a" versionType="SNAPSHOT" protocolVersion="1073741830"/>
   <minecraftVersion versionName="20w45a" versionType="SNAPSHOT" protocolVersion="1073741829"/>
