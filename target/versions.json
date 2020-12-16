@@ -1,23 +1,28 @@
 [
   {
+    "version_name": "20w51a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
     "version_name": "20w49a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 1073741832
+    "protocol_version": null
   },
   {
     "version_name": "20w48a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 1073741831
+    "protocol_version": null
   },
   {
     "version_name": "20w46a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 1073741830
+    "protocol_version": null
   },
   {
     "version_name": "20w45a",
     "version_type": "SNAPSHOT",
-    "protocol_version": 1073741829
+    "protocol_version": null
   },
   {
     "version_name": "1.16.4",
@@ -27,12 +32,12 @@
   {
     "version_name": "1.16.4-pre2",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 1073741826
+    "protocol_version": null
   },
   {
     "version_name": "1.16.4-pre1",
     "version_type": "PRE_RELEASE",
-    "protocol_version": 1073741825
+    "protocol_version": null
   },
   {
     "version_name": "1.16.3",
