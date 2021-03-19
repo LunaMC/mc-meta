@@ -1,5 +1,25 @@
 [
   {
+    "version_name": "21w11a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
+    "version_name": "21w10a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
+    "version_name": "21w08b",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
+    "version_name": "21w08a",
+    "version_type": "SNAPSHOT",
+    "protocol_version": null
+  },
+  {
     "version_name": "21w07a",
     "version_type": "SNAPSHOT",
     "protocol_version": null
