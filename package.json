@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "request": "^2.79.0",
+    "request": "^2.88.2",
     "xmlbuilder": "^8.2.2"
   }
 }
