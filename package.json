@@ -14,7 +14,7 @@
   "author": "Max Walsch <max.walsch@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0-rc.12",
     "request": "^2.79.0",
     "xmlbuilder": "^8.2.2"
   }
